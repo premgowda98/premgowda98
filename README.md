@@ -6,15 +6,16 @@
 
 <div align=center>
 
-  🌱 I’m currently learning **Nutx.js, DSA**
-  
-  💼 Working since 2022
+🔭 I’m currently working on **[Signetcloud.ai](https://signetcloud.ai)**
 
-  👯 I’m looking to collaborate on **python, vue**
+🌱 I’m currently learning **Nutx.js, DSA**
 
-  💬 Ask me about **python, vue**
+🤝 I’m looking for help with **Kubernetes**
 
-  📫 How to reach me **premkumarmvks@gmail.com**
+💬 Ask me about **python, vue**
+
+👯 I’m looking to collaborate on **python, vue**
+
 </div>
 
 <br/>
@@ -22,6 +23,8 @@
 <h1 align="center">
     Connect with me
 </h1>
+<br>
+
 <div align="center">
 <a href="mailto:premkumarmvks@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -47,28 +50,29 @@
 
 
 
-<h3 align="center">Frontend</h3> 
+<h2 align="center">Frontend</h2> 
 <div align="center"> 
 <a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt&perline=2"/></a> 
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> 
-
 </div>
 
 </td><td valign="top" width="25%">
 
 
 
-<h3 align="center">Backend</h3>  
+<h2 align="center">Backend</h2>
+
 <div align="center"> 
-<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py,git,supabase,mongodb,selenium,redis&perline=2"/></a>
+<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py,git,supabase,mongodb,selenium,redis,rabbitmq&perline=2"/></a>
 
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> 
 </div>
 
 </td><td valign="top" width="25%">
 
-<h3 align="center">Data</h3>    
+<h2 align="center">Data</h2>
+   
 <div align="center"> 
 <a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,opencv&perline=2"/></a>
 
@@ -83,7 +87,7 @@
 
 
 
-<h3 align="center">Devops</h3> 
+<h2 align="center">Devops</h2> 
 <div align="center"> 
 <a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure,docker,nginx&perline=2"/></a>
 
