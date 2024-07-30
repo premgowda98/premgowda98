@@ -8,13 +8,11 @@
 
 🔭 I’m currently working on **[Signetcloud.ai](https://signetcloud.ai)**
 
-🌱 I’m currently learning **Nutx.js, DSA**
-
-🤝 I’m looking for help with **Kubernetes**
+🌱 I’m curious about **Backend, Devops, ML**
 
 💬 Ask me about **python, vue**
 
-👯 I’m looking to collaborate on **python, vue**
+👯 I’m looking to collaborate on **python, vue, docker, k8s**
 
 </div>
 
@@ -26,25 +24,28 @@
 <br>
 
 <div align="center">
-<a href="mailto:premkumarmvks@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/premgowda98" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/premgowda98" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/premgowda98" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+    <a href="mailto:premkumarmvks@gmail.com" target="_blank">
+        <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://github.com/premgowda98" target="_blank">
+        <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://twitter.com/premgowda98" target="_blank">
+        <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://linkedin.com/in/premgowda98" target="_blank">
+        <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>  
+    <a href="https://portfolio.premgowda.in?utm_source=github" target="_blank">
+        <img src= https://img.shields.io/badge/Portfolio-20B2AA?style=for-the-badge alt=linkedin style="margin-bottom: 5px;" />
+    </a>  
 </div> 
 
 <br/>
 
 
 <h1 align="center">
-    Languages & tools
+    Skills
 </h1> 
 <table align="center"><tr><td valign="top" width="25%">
 
@@ -89,7 +90,7 @@
 
 <h2 align="center">Devops</h2> 
 <div align="center"> 
-<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure,docker,nginx&perline=2"/></a>
+<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure,docker,nginx,kubernetes,ansible&perline=2"/></a>
 
 <img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> 
 
