@@ -6,13 +6,13 @@
 
 <div align=center>
 
-🔭 I’m currently working on **[Signetcloud.ai](https://signetcloud.ai)**
+🔭 I’m currently working on **[Drivebill](https://drivebill.in)**
 
-🌱 I’m curious about **Backend, Devops, ML**
+🌱 I’m curious about **Backend, Devops, LLM**
 
-💬 Ask me about **python, vue**
+💬 Ask me about **python, go**
 
-👯 I’m looking to collaborate on **python, vue, docker, k8s**
+👯 I’m looking to collaborate on **python, go, docker, k8s**
 
 </div>
 
