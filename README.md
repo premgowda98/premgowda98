@@ -54,8 +54,6 @@
 <h2 align="center">Frontend</h2> 
 <div align="center"> 
 <a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt&perline=2"/></a> 
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> 
 </div>
 
 </td><td valign="top" width="25%">
@@ -65,9 +63,7 @@
 <h2 align="center">Backend</h2>
 
 <div align="center"> 
-<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py,git,supabase,mongodb,selenium,redis,rabbitmq&perline=2"/></a>
-
-<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> 
+<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py,go,fastapi,git,redis,rabbitmq,kafka&perline=2"/></a>
 </div>
 
 </td><td valign="top" width="25%">
@@ -76,10 +72,6 @@
    
 <div align="center"> 
 <a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,opencv&perline=2"/></a>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> 
 </div>
 </div>
 
@@ -90,9 +82,7 @@
 
 <h2 align="center">Devops</h2> 
 <div align="center"> 
-<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure,docker,nginx,kubernetes,ansible&perline=2"/></a>
-
-<img src="https://img.shields.io/badge/ngrok-140648?style=for-the-badge&logo=Ngrok&logoColor=white"/> 
+<a href="https://github.com/premgowda98" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=azure,aws,docker,nginx,kubernetes,ansible,terraform&perline=2"/></a>
 
 </div>
 </td></tr></table>  
